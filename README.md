@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project builds and compares six machine learning models to detect fraudulent credit card transactions. The core challenge is class imbalance — fraudulent transactions represent less than 0.2% of all records — so three data balancing techniques (oversampling, undersampling, and SMOTE) are applied and compared alongside raw and scaled versions of the dataset.
+This project builds and compares six machine learning models to detect fraudulent credit card transactions. The core challenge is class imbalance; fraudulent transactions represent less than 0.2% of all records, so three data balancing techniques (oversampling, undersampling, and SMOTE) are applied and compared alongside raw and scaled versions of the dataset.
 
 Read the full write-up on Medium: [How I Built a Machine Learning System to Catch Credit Card Fraud](https://medium.com/@danieljude1992)
 
