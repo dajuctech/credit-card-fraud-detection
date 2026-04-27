@@ -116,7 +116,7 @@ Accuracy across all models and dataset types:
 
 ## Key Findings
 
-- High accuracy on imbalanced data is misleading — a model predicting "not fraud" 100% of the time achieves 99.8% accuracy while catching zero fraud.
+- High accuracy on imbalanced data is misleading; a model predicting "not fraud" 100% of the time achieves 99.8% accuracy while catching zero fraud.
 - Balanced datasets (SMOTE and oversampled) consistently improved fraud recall across all models.
 - XGBoost and Random Forest delivered the most reliable results across all conditions.
 - Naive Bayes was the weakest performer, particularly on imbalanced datasets.
