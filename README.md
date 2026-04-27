@@ -1,10 +1,5 @@
 # Credit Card Fraud Detection
 
-**Author:** Daniel Chigozie Jude | Student ID: 24147137
-**Institution:** Birmingham City University
-**Module:** CMP6221 Computing for AI — Semester 1, 2024/25
-
----
 
 ## Project Overview
 
@@ -31,7 +26,6 @@ The dataset is downloaded automatically inside the notebook via `gdown`. You do 
 ```
 credit-card-fraud-detection/
 ├── Credit Card Fraud Detection.ipynb   # Main notebook — all code
-├── Credit Card Fraud Detection_Medium_Post_Blog.md  # Medium blog post
 ├── README.md                           # This file
 └── creditcard.csv                      # Dataset (downloaded automatically)
 ```
